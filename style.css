@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    }
+
+    header{
+        background-color: brown;
+        width: 100%;
+        height: 70px;
+        display: flex;
+        justify-content: space-between;
+        color: rgb(240, 246, 255);
+        align-items: center;
+        width: 100%;
+        height: 70px;
+        padding:50px;
+    }
+
+    ul{
+        display: flex;
+        gap: 30px;
+    }    
+
+    #Nome-logo{
+        margin-left: 150px;
+        border: 2px solid blue;
+    }
