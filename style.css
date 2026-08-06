@@ -17,7 +17,7 @@
     height: 10vh;
     display: flex;
     justify-content: space-between;
-    color: rgb(8, 7,);
+    color: rgb(8, 7, 7);
     align-items: center;
     padding: 0 100px ;
 }
@@ -104,8 +104,8 @@ p{
 }
 
 .area-titulo{
-    texto-align: center;
-    front-slize: 35px;
+    text-align: center;
+    font-size: 35px;
     margin-top: 30px;
     margin-bottom: 60px;
 }
