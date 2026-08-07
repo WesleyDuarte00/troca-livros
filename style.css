@@ -98,7 +98,7 @@ p{
 
 .grade-livros{
     max-width: 90vw;
-    margin: 0px auto;
+    margin: 25px auto;
     
 
 }
@@ -175,6 +175,42 @@ p{
     font-size: 16px;
     margin-bottom: 15px;
 }   
+
+/* Seção como funciona */
+
+.ajuda{
+    background-color: rgb(0, 0, 0);
+    padding: 60px 20px;
+
+}
+
+.ajuda h2{
+    color: rgb(128, 0, 0);
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 35px;
+}
+
+.todos-passo{
+    display: flex;
+    justify-content: center;
+    max-width: 85vw;
+    margin: 0 auto;
+    text-align: center;
+    gap: 30px;
+    flex-wrap: wrap;
+
+
+}
+
+.numero-passo{ 
+    color: rgb(128, 0, 0);
+}
+
+.passo{
+    color: rgb(128, 0, 0);
+}
+
 
     
  
